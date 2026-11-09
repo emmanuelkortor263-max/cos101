@@ -1,0 +1,5 @@
+print("hello world")
+print("this is cos101 welcome")
+print(8/2)
+print(10-2)
+print(6*7)
